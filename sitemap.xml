@@ -2,310 +2,556 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
         <loc>https://pkm.luigicasagrande.it/</loc>
-        <lastmod>2025-08-04</lastmod>
+        <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/"/>
     </url>
     <url>
+        <loc>https://pkm.luigicasagrande.it/this-project/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/this-project/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/this-project/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/this-website/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/this-website/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/this-website/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/finance/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/finance/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/finance/"/>
+    </url>
+    <url>
         <loc>https://pkm.luigicasagrande.it/finance/budgeting/</loc>
-        <lastmod>2025-08-04</lastmod>
+        <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/finance/budgeting/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/finance/budgeting/"/>
     </url>
     <url>
         <loc>https://pkm.luigicasagrande.it/finance/investing/</loc>
-        <lastmod>2025-08-04</lastmod>
+        <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/finance/investing/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/finance/investing/"/>
     </url>
     <url>
         <loc>https://pkm.luigicasagrande.it/finance/overview/</loc>
-        <lastmod>2025-08-04</lastmod>
+        <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/finance/overview/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/finance/overview/"/>
     </url>
     <url>
         <loc>https://pkm.luigicasagrande.it/finance/tools/</loc>
-        <lastmod>2025-08-04</lastmod>
+        <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/finance/tools/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/finance/tools/"/>
     </url>
     <url>
+        <loc>https://pkm.luigicasagrande.it/life/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/life/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/life/"/>
+    </url>
+    <url>
         <loc>https://pkm.luigicasagrande.it/life/about-me/</loc>
-        <lastmod>2025-08-04</lastmod>
+        <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/life/about-me/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/life/about-me/"/>
     </url>
     <url>
         <loc>https://pkm.luigicasagrande.it/life/career/</loc>
-        <lastmod>2025-08-04</lastmod>
+        <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/life/career/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/life/career/"/>
     </url>
     <url>
         <loc>https://pkm.luigicasagrande.it/life/education/</loc>
-        <lastmod>2025-08-04</lastmod>
+        <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/life/education/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/life/education/"/>
     </url>
     <url>
         <loc>https://pkm.luigicasagrande.it/life/philosophy/</loc>
-        <lastmod>2025-08-04</lastmod>
+        <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/life/philosophy/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/life/philosophy/"/>
     </url>
     <url>
         <loc>https://pkm.luigicasagrande.it/life/sport/</loc>
-        <lastmod>2025-08-04</lastmod>
+        <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/life/sport/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/life/sport/"/>
     </url>
     <url>
-        <loc>https://pkm.luigicasagrande.it/links/favorites/</loc>
-        <lastmod>2025-08-04</lastmod>
+        <loc>https://pkm.luigicasagrande.it/links/</loc>
+        <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/links/favorites/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/links/favorites/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/links/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/links/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/links/conventions/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/links/conventions/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/links/conventions/"/>
     </url>
     <url>
         <loc>https://pkm.luigicasagrande.it/links/resources/</loc>
-        <lastmod>2025-08-04</lastmod>
+        <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/links/resources/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/links/resources/"/>
     </url>
     <url>
+        <loc>https://pkm.luigicasagrande.it/personal-knowledge/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/personal-knowledge/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/personal-knowledge/"/>
+    </url>
+    <url>
         <loc>https://pkm.luigicasagrande.it/personal-knowledge/geopolitics/</loc>
-        <lastmod>2025-08-04</lastmod>
+        <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/personal-knowledge/geopolitics/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/personal-knowledge/geopolitics/"/>
     </url>
     <url>
         <loc>https://pkm.luigicasagrande.it/personal-knowledge/notes/</loc>
-        <lastmod>2025-08-04</lastmod>
+        <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/personal-knowledge/notes/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/personal-knowledge/notes/"/>
     </url>
     <url>
         <loc>https://pkm.luigicasagrande.it/personal-knowledge/reading-list/</loc>
-        <lastmod>2025-08-04</lastmod>
+        <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/personal-knowledge/reading-list/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/personal-knowledge/reading-list/"/>
     </url>
     <url>
         <loc>https://pkm.luigicasagrande.it/personal-knowledge/watch-list/</loc>
-        <lastmod>2025-08-04</lastmod>
+        <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/personal-knowledge/watch-list/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/personal-knowledge/watch-list/"/>
     </url>
     <url>
+        <loc>https://pkm.luigicasagrande.it/science/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/science/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/science/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/science/concepts/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/science/concepts/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/science/concepts/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/science/materials/plastic/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/science/materials/plastic/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/science/materials/plastic/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/tech/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/tech/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/tech/"/>
+    </url>
+    <url>
         <loc>https://pkm.luigicasagrande.it/tech/digital-organization/</loc>
-        <lastmod>2025-08-04</lastmod>
+        <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/tech/digital-organization/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/tech/digital-organization/"/>
     </url>
     <url>
-        <loc>https://pkm.luigicasagrande.it/tech/security/</loc>
-        <lastmod>2025-08-04</lastmod>
+        <loc>https://pkm.luigicasagrande.it/tech/privacy-security/</loc>
+        <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/tech/security/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/tech/security/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/tech/privacy-security/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/tech/privacy-security/"/>
     </url>
     <url>
-        <loc>https://pkm.luigicasagrande.it/tech/software/</loc>
-        <lastmod>2025-08-04</lastmod>
+        <loc>https://pkm.luigicasagrande.it/tech/software/android-list/</loc>
+        <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/tech/software/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/tech/software/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/tech/software/android-list/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/tech/software/android-list/"/>
     </url>
     <url>
-        <loc>https://pkm.luigicasagrande.it/travel/china/</loc>
-        <lastmod>2025-08-04</lastmod>
+        <loc>https://pkm.luigicasagrande.it/tech/software/guide-mkdocs/</loc>
+        <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/travel/china/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/travel/china/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/tech/software/guide-mkdocs/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/tech/software/guide-mkdocs/"/>
     </url>
     <url>
-        <loc>https://pkm.luigicasagrande.it/travel/crete/</loc>
-        <lastmod>2025-08-04</lastmod>
+        <loc>https://pkm.luigicasagrande.it/tech/software/operating-systems/</loc>
+        <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/travel/crete/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/travel/crete/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/tech/software/operating-systems/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/tech/software/operating-systems/"/>
     </url>
     <url>
-        <loc>https://pkm.luigicasagrande.it/travel/italy/</loc>
-        <lastmod>2025-08-04</lastmod>
+        <loc>https://pkm.luigicasagrande.it/tech/software/windows-list/</loc>
+        <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/travel/italy/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/travel/italy/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/tech/software/windows-list/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/tech/software/windows-list/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/travel/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/travel/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/travel/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/travel/general-tips/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/travel/general-tips/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/travel/general-tips/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/travel/countries/china/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/travel/countries/china/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/travel/countries/china/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/travel/countries/crete/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/travel/countries/crete/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/travel/countries/crete/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/travel/countries/italy/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/travel/countries/italy/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/travel/countries/italy/"/>
     </url>
     <url>
         <loc>https://pkm.luigicasagrande.it/en/</loc>
-        <lastmod>2025-08-04</lastmod>
+        <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/"/>
         <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/"/>
     </url>
     <url>
         <loc>https://pkm.luigicasagrande.it/en/finance/budgeting/</loc>
-        <lastmod>2025-08-04</lastmod>
+        <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/finance/budgeting/"/>
         <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/finance/budgeting/"/>
     </url>
     <url>
         <loc>https://pkm.luigicasagrande.it/en/finance/investing/</loc>
-        <lastmod>2025-08-04</lastmod>
+        <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/finance/investing/"/>
         <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/finance/investing/"/>
     </url>
     <url>
         <loc>https://pkm.luigicasagrande.it/en/finance/overview/</loc>
-        <lastmod>2025-08-04</lastmod>
+        <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/finance/overview/"/>
         <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/finance/overview/"/>
     </url>
     <url>
         <loc>https://pkm.luigicasagrande.it/en/finance/tools/</loc>
-        <lastmod>2025-08-04</lastmod>
+        <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/finance/tools/"/>
         <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/finance/tools/"/>
     </url>
     <url>
         <loc>https://pkm.luigicasagrande.it/en/life/about-me/</loc>
-        <lastmod>2025-08-04</lastmod>
+        <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/life/about-me/"/>
         <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/life/about-me/"/>
     </url>
     <url>
         <loc>https://pkm.luigicasagrande.it/en/life/career/</loc>
-        <lastmod>2025-08-04</lastmod>
+        <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/life/career/"/>
         <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/life/career/"/>
     </url>
     <url>
         <loc>https://pkm.luigicasagrande.it/en/life/education/</loc>
-        <lastmod>2025-08-04</lastmod>
+        <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/life/education/"/>
         <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/life/education/"/>
     </url>
     <url>
         <loc>https://pkm.luigicasagrande.it/en/life/philosophy/</loc>
-        <lastmod>2025-08-04</lastmod>
+        <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/life/philosophy/"/>
         <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/life/philosophy/"/>
     </url>
     <url>
         <loc>https://pkm.luigicasagrande.it/en/life/sport/</loc>
-        <lastmod>2025-08-04</lastmod>
+        <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/life/sport/"/>
         <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/life/sport/"/>
     </url>
     <url>
         <loc>https://pkm.luigicasagrande.it/en/links/favorites/</loc>
-        <lastmod>2025-08-04</lastmod>
+        <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/links/favorites/"/>
-        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/links/favorites/"/>
     </url>
     <url>
         <loc>https://pkm.luigicasagrande.it/en/links/resources/</loc>
-        <lastmod>2025-08-04</lastmod>
+        <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/links/resources/"/>
         <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/links/resources/"/>
     </url>
     <url>
         <loc>https://pkm.luigicasagrande.it/en/personal-knowledge/geopolitics/</loc>
-        <lastmod>2025-08-04</lastmod>
+        <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/personal-knowledge/geopolitics/"/>
         <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/personal-knowledge/geopolitics/"/>
     </url>
     <url>
         <loc>https://pkm.luigicasagrande.it/en/personal-knowledge/notes/</loc>
-        <lastmod>2025-08-04</lastmod>
+        <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/personal-knowledge/notes/"/>
         <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/personal-knowledge/notes/"/>
     </url>
     <url>
         <loc>https://pkm.luigicasagrande.it/en/personal-knowledge/reading-list/</loc>
-        <lastmod>2025-08-04</lastmod>
+        <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/personal-knowledge/reading-list/"/>
         <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/personal-knowledge/reading-list/"/>
     </url>
     <url>
         <loc>https://pkm.luigicasagrande.it/en/personal-knowledge/watch-list/</loc>
-        <lastmod>2025-08-04</lastmod>
+        <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/personal-knowledge/watch-list/"/>
         <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/personal-knowledge/watch-list/"/>
     </url>
     <url>
         <loc>https://pkm.luigicasagrande.it/en/tech/digital-organization/</loc>
-        <lastmod>2025-08-04</lastmod>
+        <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/tech/digital-organization/"/>
         <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/tech/digital-organization/"/>
     </url>
     <url>
         <loc>https://pkm.luigicasagrande.it/en/tech/security/</loc>
-        <lastmod>2025-08-04</lastmod>
+        <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/tech/security/"/>
-        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/tech/security/"/>
     </url>
     <url>
         <loc>https://pkm.luigicasagrande.it/en/tech/software/</loc>
-        <lastmod>2025-08-04</lastmod>
+        <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/tech/software/"/>
-        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/tech/software/"/>
     </url>
     <url>
         <loc>https://pkm.luigicasagrande.it/en/travel/china/</loc>
-        <lastmod>2025-08-04</lastmod>
+        <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/travel/china/"/>
-        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/travel/china/"/>
     </url>
     <url>
         <loc>https://pkm.luigicasagrande.it/en/travel/crete/</loc>
-        <lastmod>2025-08-04</lastmod>
+        <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/travel/crete/"/>
-        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/travel/crete/"/>
     </url>
     <url>
         <loc>https://pkm.luigicasagrande.it/en/travel/italy/</loc>
-        <lastmod>2025-08-04</lastmod>
+        <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/travel/italy/"/>
-        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/travel/italy/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/en/this-project/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/this-project/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/this-project/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/en/this-website/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/this-website/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/this-website/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/en/finance/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/finance/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/finance/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/en/life/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/life/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/life/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/en/links/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/links/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/links/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/en/links/conventions/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/links/conventions/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/links/conventions/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/en/personal-knowledge/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/personal-knowledge/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/personal-knowledge/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/en/science/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/science/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/science/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/en/science/concepts/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/science/concepts/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/science/concepts/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/en/science/materials/plastic/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/science/materials/plastic/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/science/materials/plastic/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/en/tech/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/tech/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/tech/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/en/tech/privacy-security/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/tech/privacy-security/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/tech/privacy-security/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/en/tech/software/android-list/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/tech/software/android-list/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/tech/software/android-list/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/en/tech/software/guide-mkdocs/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/tech/software/guide-mkdocs/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/tech/software/guide-mkdocs/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/en/tech/software/operating-systems/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/tech/software/operating-systems/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/tech/software/operating-systems/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/en/tech/software/windows-list/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/tech/software/windows-list/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/tech/software/windows-list/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/en/travel/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/travel/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/travel/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/en/travel/general-tips/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/travel/general-tips/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/travel/general-tips/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/en/travel/countries/china/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/travel/countries/china/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/travel/countries/china/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/en/travel/countries/crete/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/travel/countries/crete/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/travel/countries/crete/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/en/travel/countries/italy/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/travel/countries/italy/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/travel/countries/italy/"/>
     </url>
 </urlset>
