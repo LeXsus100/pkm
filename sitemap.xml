@@ -57,6 +57,27 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/finance/tools/"/>
     </url>
     <url>
+        <loc>https://pkm.luigicasagrande.it/leisure/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/leisure/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/leisure/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/leisure/games/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/leisure/games/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/leisure/games/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/leisure/games/lupus-in-fabula/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/leisure/games/lupus-in-fabula/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/leisure/games/lupus-in-fabula/"/>
+    </url>
+    <url>
         <loc>https://pkm.luigicasagrande.it/life/</loc>
         <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
@@ -127,13 +148,6 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/personal-knowledge/"/>
     </url>
     <url>
-        <loc>https://pkm.luigicasagrande.it/personal-knowledge/geopolitics/</loc>
-        <lastmod>2025-08-05</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/personal-knowledge/geopolitics/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/personal-knowledge/geopolitics/"/>
-    </url>
-    <url>
         <loc>https://pkm.luigicasagrande.it/personal-knowledge/notes/</loc>
         <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
@@ -155,6 +169,76 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/personal-knowledge/watch-list/"/>
     </url>
     <url>
+        <loc>https://pkm.luigicasagrande.it/personal-knowledge/geopolitics/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/personal-knowledge/geopolitics/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/personal-knowledge/geopolitics/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/personal-knowledge/geopolitics/gaza-war/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/personal-knowledge/geopolitics/gaza-war/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/personal-knowledge/geopolitics/gaza-war/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/personal-knowledge/geopolitics/immigration/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/personal-knowledge/geopolitics/immigration/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/personal-knowledge/geopolitics/immigration/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/personal-knowledge/geopolitics/russo-ukrainian-war/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/personal-knowledge/geopolitics/russo-ukrainian-war/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/personal-knowledge/geopolitics/russo-ukrainian-war/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/personal-knowledge/geopolitics/taiwan-dispute/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/personal-knowledge/geopolitics/taiwan-dispute/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/personal-knowledge/geopolitics/taiwan-dispute/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/personal-knowledge/health/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/personal-knowledge/health/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/personal-knowledge/health/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/personal-knowledge/health/covid/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/personal-knowledge/health/covid/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/personal-knowledge/health/covid/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/personal-knowledge/health/environment/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/personal-knowledge/health/environment/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/personal-knowledge/health/environment/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/personal-knowledge/health/food/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/personal-knowledge/health/food/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/personal-knowledge/health/food/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/personal-knowledge/health/social-media/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/personal-knowledge/health/social-media/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/personal-knowledge/health/social-media/"/>
+    </url>
+    <url>
         <loc>https://pkm.luigicasagrande.it/science/</loc>
         <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
@@ -167,6 +251,13 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/science/concepts/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/science/concepts/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/science/materials/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/science/materials/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/science/materials/"/>
     </url>
     <url>
         <loc>https://pkm.luigicasagrande.it/science/materials/plastic/</loc>
@@ -211,6 +302,13 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/tech/software/"/>
     </url>
     <url>
+        <loc>https://pkm.luigicasagrande.it/tech/software/my-software/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/tech/software/my-software/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/tech/software/my-software/"/>
+    </url>
+    <url>
         <loc>https://pkm.luigicasagrande.it/tech/software/operating-systems/</loc>
         <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
@@ -251,6 +349,13 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/travel/general-tips/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/travel/general-tips/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/travel/countries/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/travel/countries/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/travel/countries/"/>
     </url>
     <url>
         <loc>https://pkm.luigicasagrande.it/travel/countries/china/</loc>
@@ -361,7 +466,6 @@
         <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/personal-knowledge/geopolitics/"/>
-        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/personal-knowledge/geopolitics/"/>
     </url>
     <url>
         <loc>https://pkm.luigicasagrande.it/en/personal-knowledge/notes/</loc>
@@ -443,6 +547,27 @@
         <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/finance/"/>
     </url>
     <url>
+        <loc>https://pkm.luigicasagrande.it/en/leisure/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/leisure/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/leisure/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/en/leisure/games/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/leisure/games/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/leisure/games/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/en/leisure/games/lupus-in-fabula/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/leisure/games/lupus-in-fabula/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/leisure/games/lupus-in-fabula/"/>
+    </url>
+    <url>
         <loc>https://pkm.luigicasagrande.it/en/life/</loc>
         <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
@@ -471,6 +596,76 @@
         <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/personal-knowledge/"/>
     </url>
     <url>
+        <loc>https://pkm.luigicasagrande.it/en/personal-knowledge/geopolitics/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/personal-knowledge/geopolitics/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/personal-knowledge/geopolitics/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/en/personal-knowledge/geopolitics/gaza-war/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/personal-knowledge/geopolitics/gaza-war/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/personal-knowledge/geopolitics/gaza-war/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/en/personal-knowledge/geopolitics/immigration/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/personal-knowledge/geopolitics/immigration/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/personal-knowledge/geopolitics/immigration/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/en/personal-knowledge/geopolitics/russo-ukrainian-war/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/personal-knowledge/geopolitics/russo-ukrainian-war/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/personal-knowledge/geopolitics/russo-ukrainian-war/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/en/personal-knowledge/geopolitics/taiwan-dispute/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/personal-knowledge/geopolitics/taiwan-dispute/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/personal-knowledge/geopolitics/taiwan-dispute/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/en/personal-knowledge/health/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/personal-knowledge/health/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/personal-knowledge/health/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/en/personal-knowledge/health/covid/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/personal-knowledge/health/covid/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/personal-knowledge/health/covid/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/en/personal-knowledge/health/environment/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/personal-knowledge/health/environment/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/personal-knowledge/health/environment/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/en/personal-knowledge/health/food/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/personal-knowledge/health/food/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/personal-knowledge/health/food/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/en/personal-knowledge/health/social-media/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/personal-knowledge/health/social-media/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/personal-knowledge/health/social-media/"/>
+    </url>
+    <url>
         <loc>https://pkm.luigicasagrande.it/en/science/</loc>
         <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
@@ -483,6 +678,13 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/science/concepts/"/>
         <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/science/concepts/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/en/science/materials/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/science/materials/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/science/materials/"/>
     </url>
     <url>
         <loc>https://pkm.luigicasagrande.it/en/science/materials/plastic/</loc>
@@ -518,6 +720,13 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/tech/software/"/>
         <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/tech/software/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/en/tech/software/my-software/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/tech/software/my-software/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/tech/software/my-software/"/>
     </url>
     <url>
         <loc>https://pkm.luigicasagrande.it/en/tech/software/operating-systems/</loc>
@@ -560,6 +769,13 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/travel/general-tips/"/>
         <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/travel/general-tips/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/en/travel/countries/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/travel/countries/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/travel/countries/"/>
     </url>
     <url>
         <loc>https://pkm.luigicasagrande.it/en/travel/countries/china/</loc>
