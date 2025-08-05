@@ -197,18 +197,18 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/tech/privacy-security/"/>
     </url>
     <url>
-        <loc>https://pkm.luigicasagrande.it/tech/software/android-list/</loc>
+        <loc>https://pkm.luigicasagrande.it/tech/hardware/</loc>
         <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/tech/software/android-list/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/tech/software/android-list/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/tech/hardware/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/tech/hardware/"/>
     </url>
     <url>
-        <loc>https://pkm.luigicasagrande.it/tech/software/guide-mkdocs/</loc>
+        <loc>https://pkm.luigicasagrande.it/tech/software/</loc>
         <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/tech/software/guide-mkdocs/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/tech/software/guide-mkdocs/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/tech/software/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/tech/software/"/>
     </url>
     <url>
         <loc>https://pkm.luigicasagrande.it/tech/software/operating-systems/</loc>
@@ -218,11 +218,25 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/tech/software/operating-systems/"/>
     </url>
     <url>
-        <loc>https://pkm.luigicasagrande.it/tech/software/windows-list/</loc>
+        <loc>https://pkm.luigicasagrande.it/tech/software/guide/</loc>
         <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/tech/software/windows-list/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/tech/software/windows-list/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/tech/software/guide/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/tech/software/guide/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/tech/software/guide/latex/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/tech/software/guide/latex/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/tech/software/guide/latex/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/tech/software/guide/mkdocs/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/tech/software/guide/mkdocs/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/tech/software/guide/mkdocs/"/>
     </url>
     <url>
         <loc>https://pkm.luigicasagrande.it/travel/</loc>
@@ -492,18 +506,18 @@
         <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/tech/privacy-security/"/>
     </url>
     <url>
-        <loc>https://pkm.luigicasagrande.it/en/tech/software/android-list/</loc>
+        <loc>https://pkm.luigicasagrande.it/en/tech/hardware/</loc>
         <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/tech/software/android-list/"/>
-        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/tech/software/android-list/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/tech/hardware/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/tech/hardware/"/>
     </url>
     <url>
-        <loc>https://pkm.luigicasagrande.it/en/tech/software/guide-mkdocs/</loc>
+        <loc>https://pkm.luigicasagrande.it/en/tech/software/</loc>
         <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/tech/software/guide-mkdocs/"/>
-        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/tech/software/guide-mkdocs/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/tech/software/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/tech/software/"/>
     </url>
     <url>
         <loc>https://pkm.luigicasagrande.it/en/tech/software/operating-systems/</loc>
@@ -513,11 +527,25 @@
         <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/tech/software/operating-systems/"/>
     </url>
     <url>
-        <loc>https://pkm.luigicasagrande.it/en/tech/software/windows-list/</loc>
+        <loc>https://pkm.luigicasagrande.it/en/tech/software/guide/</loc>
         <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/tech/software/windows-list/"/>
-        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/tech/software/windows-list/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/tech/software/guide/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/tech/software/guide/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/en/tech/software/guide/latex/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/tech/software/guide/latex/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/tech/software/guide/latex/"/>
+    </url>
+    <url>
+        <loc>https://pkm.luigicasagrande.it/en/tech/software/guide/mkdocs/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pkm.luigicasagrande.it/en/tech/software/guide/mkdocs/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pkm.luigicasagrande.it/tech/software/guide/mkdocs/"/>
     </url>
     <url>
         <loc>https://pkm.luigicasagrande.it/en/travel/</loc>
